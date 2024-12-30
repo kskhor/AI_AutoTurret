@@ -6,6 +6,9 @@ Things needed to dowload(optional)
 1. VNC: tigervnc64-1.14.1.exe
 
 
+ways to clone the github into vscode:
+git clone https://github.com/kskhor/AI_AutoTurret.git
+
 ways to push to github:
 git add .
 git commit -m "Initial project setup"
